@@ -1,1 +1,1 @@
-assert 'hello world' == 'hello world'
+assert assert sum([1, 2, 3]) == 6, "Should be 6"
